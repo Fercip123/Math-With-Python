@@ -1,2 +1,10 @@
 # Math-With-Python
-A computational journal documenting my journey in mastering the mathematical foundations of AI. This repository features Python implementations of Calculus, Linear Algebra, and Statistics, aimed at preparing for advanced research in NeuroAI and Computational Neuroscience
+A personal collection of mathematical concepts implemented in Python, focused on building a foundation for **NeuroAI** research.
+## 📂 Contents
+- **/Calculus**: Visualization of derivatives and gradients (NumPy, Matplotlib).
+- **/Linear-Algebra**: Matrix operations and vector spaces (Coming Soon).
+## 🚀 Goal
+To master the mathematical rigor required for graduate studies at **Kyoto University**.
+## 🛠️ Tech
+- Python 3.13
+- NumPy & Matplotlib
