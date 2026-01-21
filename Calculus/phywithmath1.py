@@ -29,3 +29,4 @@ plt.title("Visualisasi Turunan sebagai Kemiringan Garis Singgung")
 plt.legend()
 plt.grid(True)
 plt.show()
+
